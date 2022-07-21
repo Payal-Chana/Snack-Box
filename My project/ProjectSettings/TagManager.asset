@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Cassette Player
   - Cassette
+  - music
+  - Trash
+  - Cassette2
   layers:
   - Default
   - TransparentFX
